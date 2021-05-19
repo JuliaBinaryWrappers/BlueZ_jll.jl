@@ -1,0 +1,83 @@
+[[BlueZ]]
+arch = "aarch64"
+git-tree-sha1 = "6ee6673446abdfcb23341ddfcb914d33f29c598d"
+libc = "glibc"
+os = "linux"
+
+    [[BlueZ.download]]
+    sha256 = "953ef172f546b6cf1f93c1414aa7c0c1caf2d7044e1ae788d67c94c7bdc7a9ad"
+    url = "https://github.com/JuliaBinaryWrappers/BlueZ_jll.jl/releases/download/BlueZ-v5.54.0+0/BlueZ.v5.54.0.aarch64-linux-gnu.tar.gz"
+[[BlueZ]]
+arch = "aarch64"
+git-tree-sha1 = "263a28506e78b8e5582f68a3338b14f96b63b0fb"
+libc = "musl"
+os = "linux"
+
+    [[BlueZ.download]]
+    sha256 = "56df31d53a87e2238792f511e96a8b17a220a3a41e1d1fab0d06647440bdb127"
+    url = "https://github.com/JuliaBinaryWrappers/BlueZ_jll.jl/releases/download/BlueZ-v5.54.0+0/BlueZ.v5.54.0.aarch64-linux-musl.tar.gz"
+[[BlueZ]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "39e5ad709a1bbe9afbeb1e57b823510c0550ae66"
+libc = "glibc"
+os = "linux"
+
+    [[BlueZ.download]]
+    sha256 = "b2d128655945e39e6b93e94597d6ec730aa5343adf0f2367a03d57fe5fd4c63e"
+    url = "https://github.com/JuliaBinaryWrappers/BlueZ_jll.jl/releases/download/BlueZ-v5.54.0+0/BlueZ.v5.54.0.armv7l-linux-gnueabihf.tar.gz"
+[[BlueZ]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0df2492e8f68207f53f9b2b22c6ee1ed0bd5ab00"
+libc = "musl"
+os = "linux"
+
+    [[BlueZ.download]]
+    sha256 = "d5316583e5f74c9cd8be438a9a701f7d89767bfdff04110586760da2bc87f596"
+    url = "https://github.com/JuliaBinaryWrappers/BlueZ_jll.jl/releases/download/BlueZ-v5.54.0+0/BlueZ.v5.54.0.armv7l-linux-musleabihf.tar.gz"
+[[BlueZ]]
+arch = "i686"
+git-tree-sha1 = "67c8e5e19478ad5bc928aa7bcc6c57d5f3c02306"
+libc = "glibc"
+os = "linux"
+
+    [[BlueZ.download]]
+    sha256 = "d67ba2ce2b70f071bc39ac7fb0c1deb31ccff80340f064ea148e33b23e24ace4"
+    url = "https://github.com/JuliaBinaryWrappers/BlueZ_jll.jl/releases/download/BlueZ-v5.54.0+0/BlueZ.v5.54.0.i686-linux-gnu.tar.gz"
+[[BlueZ]]
+arch = "i686"
+git-tree-sha1 = "d2a686265ce3807604ce5096d59c708930e11081"
+libc = "musl"
+os = "linux"
+
+    [[BlueZ.download]]
+    sha256 = "bcf74038072ec378b87adee07689bb6858976b664f3551d933f6a18c03bb2ece"
+    url = "https://github.com/JuliaBinaryWrappers/BlueZ_jll.jl/releases/download/BlueZ-v5.54.0+0/BlueZ.v5.54.0.i686-linux-musl.tar.gz"
+[[BlueZ]]
+arch = "powerpc64le"
+git-tree-sha1 = "8a614311540b166f99425a47de3ab58472452f6e"
+libc = "glibc"
+os = "linux"
+
+    [[BlueZ.download]]
+    sha256 = "85fc5bcb4e8faae22ce0378bc383a49c5e3a0c2a139d3592ccce8219ecc4e16a"
+    url = "https://github.com/JuliaBinaryWrappers/BlueZ_jll.jl/releases/download/BlueZ-v5.54.0+0/BlueZ.v5.54.0.powerpc64le-linux-gnu.tar.gz"
+[[BlueZ]]
+arch = "x86_64"
+git-tree-sha1 = "c3b0d4879abb32333260b4584932a3b00db8b18c"
+libc = "glibc"
+os = "linux"
+
+    [[BlueZ.download]]
+    sha256 = "543464f66e17d6607b8705c5287be685c9eca15a61ff247bf0b05ce4f0f699af"
+    url = "https://github.com/JuliaBinaryWrappers/BlueZ_jll.jl/releases/download/BlueZ-v5.54.0+0/BlueZ.v5.54.0.x86_64-linux-gnu.tar.gz"
+[[BlueZ]]
+arch = "x86_64"
+git-tree-sha1 = "2d399b2e730135c0fa30fc2ba2f08a727dad5996"
+libc = "musl"
+os = "linux"
+
+    [[BlueZ.download]]
+    sha256 = "6a3b40f19f22bfaa5596ef34340185ae55480d1184d8f19e7f6a15b7c42b7f8b"
+    url = "https://github.com/JuliaBinaryWrappers/BlueZ_jll.jl/releases/download/BlueZ-v5.54.0+0/BlueZ.v5.54.0.x86_64-linux-musl.tar.gz"
