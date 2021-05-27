@@ -1,6 +1,6 @@
 name = "BlueZ_jll"
 uuid = "471b5b61-da80-5748-8755-67d5084d21f2"
-version = "5.54.0+0"
+version = "5.54.0+1"
 
 [deps]
 Readline_jll = "05236dd9-4125-5232-aa7c-9ec0c9b2c25a"
@@ -16,3 +16,4 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+Glib_jll = "2.68.1"
